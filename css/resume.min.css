@@ -1,0 +1,306 @@
+/*!
+ * Start Bootstrap - Resume v7.0.4 (https://startbootstrap.com/theme/resume)
+ * Copyright 2013-2023 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */
+body {
+    font-family: Muli,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    padding-top: 54px;
+    color: #868e96
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top:0;
+        padding-left: 17rem
+    }
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Saira Extra Condensed",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-weight: 700;
+    color: #343a40
+}
+
+h1,h2 {
+    text-transform: uppercase
+}
+
+h1 {
+    font-size: 6rem;
+    line-height: 5.5rem
+}
+
+h2 {
+    font-size: 3.5rem
+}
+
+h3 {
+    font-size: 2rem
+}
+
+p.lead {
+    font-size: 1.15rem;
+    font-weight: 400
+}
+
+.subheading {
+    font-weight: 500;
+    font-family: "Saira Extra Condensed",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.5rem
+}
+
+.social-icons a {
+    display: inline-block;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff!important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 3.5rem;
+    margin-right: 1rem
+}
+
+.social-icons a:last-child {
+    margin-right: 0
+}
+
+.social-icons a:hover {
+    background-color: #b91111
+}
+
+.dev-icons {
+    font-size: 2rem
+}
+
+.dev-icons .list-inline-item i {
+    color: #495057
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #007bcc
+}
+
+.popover {
+    max-width: 95%
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: 800;
+    letter-spacing: .05rem;
+    text-transform: uppercase
+}
+
+#sideNav .navbar-toggler:focus {
+    outline-color: #1aa4ff
+}
+
+@media (min-width: 992px) {
+    #sideNav {
+        text-align:center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        width: 17rem;
+        height: 100vh
+    }
+
+    #sideNav .navbar-brand {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin: auto auto 0;
+        padding: .5rem
+    }
+
+    #sideNav .navbar-brand .img-profile {
+        max-width: 10rem;
+        max-height: 10rem;
+        border: .5rem solid rgba(255,255,255,.2)
+    }
+
+    #sideNav .navbar-collapse {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-flex: 0;
+        -ms-flex-positive: 0;
+        flex-grow: 0;
+        width: 100%;
+        margin-bottom: auto
+    }
+
+    #sideNav .navbar-collapse .navbar-nav {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        width: 100%
+    }
+
+    #sideNav .navbar-collapse .navbar-nav .nav-item {
+        display: block
+    }
+
+    #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+        display: block
+    }
+}
+
+section.resume-section {
+    padding-top: 5rem!important;
+    padding-bottom: 5rem!important;
+    max-width: 75rem
+}
+
+section.resume-section .resume-item .resume-content {
+    max-width: 70%
+}
+
+section.resume-section .resume-item .resume-date {
+    min-width: none;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+section.resume-section .resume-item .resume-logo {
+    min-width: none;
+    background-size: contain;
+    background-position: right center;
+    background-repeat: no-repeat
+}
+
+@media (min-width: 768px) {
+    section.resume-section {
+        min-height:100vh
+    }
+
+    section.resume-section .resume-item .resume-date {
+        min-width: 18rem
+    }
+}
+
+@media (min-width: 992px) {
+    section.resume-section {
+        padding-top:3rem!important;
+        padding-bottom: 3rem!important
+    }
+}
+
+#charm2023img {
+    background-image: url(/Users/francesraphael/website/WWW/img/research/charm_image.png)
+}
+
+#robot {
+    background-image: url(/Users/francesraphael/website/WWW/img/projects/robot.png)
+}
+
+#icra2019img {
+    background-image: url(/img/research/pellets_predictions2.png)
+}
+
+#corl2018img {
+    background-image: url(/img/research/Setup.png)
+}
+
+#vis2016img {
+    background-image: url(/img/research/MatrixCube.png)
+}
+
+#chi2014img {
+    background-image: url(/img/research/LatentGesture.png)
+}
+
+#inventure2017img {
+    background-image: url(/img/projects/cprMask.jpg)
+}
+
+#final16703img {
+    background-image: url(/img/projects/predictive_architecture.png)
+}
+
+#toshiba {
+    background-image: url(/Users/francesraphael/website/WWW/img/industry/toshiba.png)
+}
+
+#charmlab {
+    background-image: url(/Users/francesraphael/website/WWW/img/research/charmlab.png)
+}
+
+#robotics {
+    background-image: url(/Users/francesraphael/website/WWW/img/industry/robotics.png)
+}
+
+#sengr {
+    background-image: url(/Users/francesraphael/website/WWW/img/industry/sengr.png)
+}
+
+#pg {
+    background-image: url(/Users/francesraphael/website/WWW/img/industry/pg.png)
+}
+
+#p107 {
+    background-image: url(/Users/francesraphael/website/WWW/img/projects/p107.png)
+}
+
+#ee267 {
+    background-image: url(/Users/francesraphael/website/WWW/img/projects/ee267.png)
+}
+
+#urGT {
+    background-image: url(/img/industry/gtLogo.png)
+}
+
+#google2014 {
+    background-image: url(/img/industry/google_2015_logo.png)
+}
+
+#google2013 {
+    background-image: url(/img/industry/google_2015_logo.png)
+}
+
+#salesforce2012 {
+    background-image: url(/img/industry/salesforceLogo.png)
+}
+
+#chacha2011 {
+    background-image: url(/img/industry/chachaLogo.jpg)
+}
+
+#cmuMS {
+    background-image: url(/img/industry/cmuLogo.png)
+}
+
+#gtBS {
+    background-image: url(/img/industry/gtLogo.png)
+}
+
+.bg-primary {
+    background-color: #b91111!important
+}
+
+.text-primary {
+    color: #b91111!important
+}
+
+a {
+    color: #b91111
+}
+
+a:active,a:focus,a:hover {
+    color: #004d80
+}
+
