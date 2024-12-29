@@ -201,39 +201,39 @@ section.resume-section .resume-item .resume-logo {
 }
 
 #charm2023img {
-    background-image: url(img/research/charm_image.png)
+    background-image: url(../img/research/charm_image.png)
 }
 
 #robot {
-    background-image: url(img/projects/robot.png)
+    background-image: url(../img/projects/robot.png)
 }
 
 #toshiba {
-    background-image: url(img/industry/toshiba.png)
+    background-image: url(../img/industry/toshiba.png)
 }
 
 #charmlab {
-    background-image: url(img/research/charmlab.png)
+    background-image: url(../img/research/charmlab.png)
 }
 
 #robotics {
-    background-image: url(img/industry/robotics.png)
+    background-image: url(../img/industry/robotics.png)
 }
 
 #sengr {
-    background-image: url(img/industry/sengr.png)
+    background-image: url(../img/industry/sengr.png)
 }
 
 #pg {
-    background-image: url(img/industry/pg.png)
+    background-image: url(../img/industry/pg.png)
 }
 
 #p107 {
-    background-image: url(img/projects/p107.png)
+    background-image: url(../img/projects/p107.png)
 }
 
 #ee267 {
-    background-image: url(img/projects/ee267.png)
+    background-image: url(../img/projects/ee267.png)
 }
 
 
