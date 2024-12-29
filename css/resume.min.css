@@ -201,92 +201,41 @@ section.resume-section .resume-item .resume-logo {
 }
 
 #charm2023img {
-    background-image: url(/Users/francesraphael/website/WWW/img/research/charm_image.png)
+    background-image: url(img/research/charm_image.png)
 }
 
 #robot {
-    background-image: url(/Users/francesraphael/website/WWW/img/projects/robot.png)
-}
-
-#icra2019img {
-    background-image: url(/img/research/pellets_predictions2.png)
-}
-
-#corl2018img {
-    background-image: url(/img/research/Setup.png)
-}
-
-#vis2016img {
-    background-image: url(/img/research/MatrixCube.png)
-}
-
-#chi2014img {
-    background-image: url(/img/research/LatentGesture.png)
-}
-
-#inventure2017img {
-    background-image: url(/img/projects/cprMask.jpg)
-}
-
-#final16703img {
-    background-image: url(/img/projects/predictive_architecture.png)
+    background-image: url(img/projects/robot.png)
 }
 
 #toshiba {
-    background-image: url(/Users/francesraphael/website/WWW/img/industry/toshiba.png)
+    background-image: url(img/industry/toshiba.png)
 }
 
 #charmlab {
-    background-image: url(/Users/francesraphael/website/WWW/img/research/charmlab.png)
+    background-image: url(img/research/charmlab.png)
 }
 
 #robotics {
-    background-image: url(/Users/francesraphael/website/WWW/img/industry/robotics.png)
+    background-image: url(img/industry/robotics.png)
 }
 
 #sengr {
-    background-image: url(/Users/francesraphael/website/WWW/img/industry/sengr.png)
+    background-image: url(img/industry/sengr.png)
 }
 
 #pg {
-    background-image: url(/Users/francesraphael/website/WWW/img/industry/pg.png)
+    background-image: url(img/industry/pg.png)
 }
 
 #p107 {
-    background-image: url(/Users/francesraphael/website/WWW/img/projects/p107.png)
+    background-image: url(img/projects/p107.png)
 }
 
 #ee267 {
-    background-image: url(/Users/francesraphael/website/WWW/img/projects/ee267.png)
+    background-image: url(img/projects/ee267.png)
 }
 
-#urGT {
-    background-image: url(/img/industry/gtLogo.png)
-}
-
-#google2014 {
-    background-image: url(/img/industry/google_2015_logo.png)
-}
-
-#google2013 {
-    background-image: url(/img/industry/google_2015_logo.png)
-}
-
-#salesforce2012 {
-    background-image: url(/img/industry/salesforceLogo.png)
-}
-
-#chacha2011 {
-    background-image: url(/img/industry/chachaLogo.jpg)
-}
-
-#cmuMS {
-    background-image: url(/img/industry/cmuLogo.png)
-}
-
-#gtBS {
-    background-image: url(/img/industry/gtLogo.png)
-}
 
 .bg-primary {
     background-color: #b91111!important
